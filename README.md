@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @himaankyadav
+- 👀 I’m interested in Web development and AI/Machine Learning
+- 🌱 I’m currently learning ReactJS, then moving to Backend development
+- 💞️ I’m looking to collaborate on any front end web development projects
+- 📫 How to reach me on my discord blank1558
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: im pretty cool
